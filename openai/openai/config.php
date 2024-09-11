@@ -1,6 +1,6 @@
 <?php
 return [
-    'openai_api_key' => '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',
+    'openai_api_key' => 'my_api_key',
     'db' => [
         'host' => 'localhost',
         'dbname' => 'openai_project',

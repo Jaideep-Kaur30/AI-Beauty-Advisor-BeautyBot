@@ -1,6 +1,6 @@
 <?php
 function get_openai_response($question) {
-    $api_key = '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';  // Replace with your OpenAI API key
+    $api_key = 'my_api_key';  // Replace with your OpenAI API key
     $url = 'https://api.openai.com/v1/chat/completions';
     $data = [
         'model' => 'gpt-3.5-turbo',

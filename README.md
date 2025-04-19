@@ -13,9 +13,9 @@ User-friendly design and intuitive flow
 Python
 Flask – Backend development and API handling
 HTML/CSS/JavaScript – Frontend development
-TensorFlow / Keras – Machine learning (if applicable for product suggestion logic)
+TensorFlow / Keras – Machine learning 
 Natural Language Toolkit (NLTK) / spaCy – Natural Language Processing
-Dialogflow / Rasa (optional) – For enhanced conversational AI (if used)
+
 
 🎨 Features
 Chat Interface: Interactive and intuitive design for seamless conversations
